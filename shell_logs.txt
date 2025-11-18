@@ -1,0 +1,500 @@
+   54  make trex
+   55  make stego
+   56  make spinosaurus
+   57  make trike
+   58  gdb ./bin/orderlogs
+   59  make stego
+   60  q
+   61  make trex
+   62  make stego
+   63  make trex
+   64  make stego
+   65  make spinosaurus
+   66  make trike
+   67  gdb ./bin/orderlogs
+   68  gdb ./bin/orderlogs
+   69  make trex
+   70  make steog
+   71  make stego
+   72  q
+   73  make trike
+   74  make trex
+   75  make stego
+   76  make trex
+   77  make stego
+   78  make stego
+   79  make stego
+   80  make stego
+   81  make stego
+   82  make stego
+   83  make trex
+   84  make trike
+   85  make stego
+   86  chmod +x ref_order
+   87  make stego
+   88  bin/orderlogs -f testcases/all_new
+   89  gdb ./bin/orderlogs
+   90  make spinosaurus
+   91  make trike
+   92  gdb ./bin/orderlogs
+   93  make trex
+   94  make stego
+   95  make spinosaurus
+   96  make trike
+   97  gdb ./bin/orderlogs
+   98  make trex
+   99  make stego
+  100  mkdir demoF
+  101  cd demoF
+  102  git clone git@github.com:conchobhar2277/Practice_F.git
+  103  git push origin main
+  104  git pull
+  105  git commit -m "yay3"
+  106  git push
+  107  git pull
+  108  git pull
+  109  git add .
+  110  git commit -m "select_PC params :["
+  111  git push origin main
+  112  make
+  113  git pull
+  114  run testcases/basics
+  115  make
+  116  make
+  117  make week2
+  118  make week2
+  119  make
+  120  git add .
+  121  git commit -m "writeback"
+  122  git push
+  123  git pull
+  124  git push origin main
+  125  git merge
+  126  git pull
+  127  git commit 
+  128  git push
+  129  git pull
+  130  git merge -m "yay"
+  131  git add 
+  132  git add .
+  133  git commit "yay2"
+  134  git merge
+  135  git commit
+  136  git push
+  137  git pull
+  138  git merge
+  139  git push
+  140  git push
+  141  git pull
+  142  git merge
+  143  git commit
+  144  make clean
+  145  make week2
+  146  gdb ./bin
+  147  make week2
+  148  gdb ./bin/se
+  149  git pull
+  150  git merge
+  151  git merge
+  152  git add .
+  153  git merge
+  154  git commit 
+  155  git push
+  156  git pull
+  157  git merge
+  158  git pull
+  159  git push
+  160  git merge
+  161  git pull
+  162  git push
+  163  git pull
+  164  make week2
+  165  make
+  166  make
+  167  make week2
+  168  make week2
+  169  make
+  170  git pull
+  171  make week2
+  172  git pull
+  173  git merge
+  174  git commit -m 
+  175  git commit -m "problems"
+  176  git pull
+  177  git push
+  178  git merge
+  179  git add .
+  180  git commit
+  181  git merge
+  182  git push
+  183  git pull
+  184  git merge
+  185  git add .
+  186  git pull
+  187  git merge
+  188  git commit
+  189  git add .
+  190  git commit -m "WORK"
+  191  git merge
+  192  make
+  193  git merge
+  194  git add/rm .gdb_history
+  195  git add .
+  196  git pull
+  197  git merge
+  198  git commit
+  199  git commit -m "blah"
+  200  git pull
+  201  git pull
+  202  git merge
+  203  make clean
+  204  make week2
+  205  bin/se-ref-wk2 -i testcases/basics/add -v 2 -c out_ref
+  206  make week2
+  207  bin/se-wk2 -i testcases/basics/add -v 2 -c out_ref
+  208  ./se testcases/basics/add -c my_checkpoint.txt
+  209  ./bin/se testcases/basics/add -c my_checkpoint.txt
+  210  ./bin/se -i testcases/basics/add -c my_checkpoint.txt
+  211  bin/se -i testcases/basics/add -c my_checkpoint.txt.t
+  212  bin/se-ref -i testcases/basics/add -c my_checkpoint.txt.ref
+  213  bin/se-ref -i testcases/basics/add -c ref_checkpoint.txt
+  214  bin/se-ref-wk2 -i testcases/basics/add -c ref_checkpoint.txt
+  215  git pull
+  216  git pull
+  217  make clean
+  218  make week2
+  219  bin/se -i testcases/basics/add -c my_checkpoint.txt2
+  220  run testcases/basics
+  221  bin/se-wk2 -i testcases/basics/add -v 3
+  222  make
+  223  make week2
+  224  bin/se -i testcases/basics/add -v 3
+  225  bin/se-ref -i testcases/basics/add -v 3
+  226  bin/se-ref-wk2 -i testcases/basics/add -v 3
+  227  git pull
+  228  git merge
+  229  bin/se -i testcases/basics/add -v 3
+  230  pull
+  231  git pull
+  232  git merge
+  233  git add .
+  234  git commit -m "yay"
+  235  git merge
+  236  git pull
+  237  git merge
+  238  git add .
+  239  git commit -m "try again"
+  240  git push
+  241  make clean
+  242  make week2
+  243  gdb ./bin/se
+  244  git pull
+  245  git merge
+  246  make week2
+  247  gdb ./bin/se
+  248  git pull
+  249  git merge
+  250  bin/se -i testcases/basics/add -v 3
+  251  bin/se-ref-wk2 -i testcases/basics/add -v 3
+  252  git pull
+  253  git merge
+  254  make week2
+  255  bin/se -i testcases/basics/add -v 3
+  256  bin/se -i testcases/basics/sub -v 3
+  257  bin/se-ref-wk2 -i testcases/basics/sub -v 3
+  258  bin/se-ref-wk2 -i testcases/basics/movz -v 3
+  259  bin/se -i testcases/basics/movz -v 3
+  260  bin/se-ref-wk2 -i testcases/basics/movk -v 3
+  261  bin/se -i testcases/basics/movk -v 3
+  262  git push
+  263  git pull
+  264  git pull
+  265  git merge
+  266  bin/se -i testcases/basics/movk -v 3
+  267  bin/se -i testcases/basics/movk -v 3
+  268  make week2
+  269  gdb ./bin/se
+  270  make week2
+  271  bin/se -i testcases/basics/movk -v 3
+  272  bin/se -i testcases/basics/movk -v 3
+  273  git add .
+  274  git commit "commented where bug could be"
+  275  git commit -m "commented where bug could be"
+  276  git push origin main
+  277  bin/se -i testcases/basics/movk -v 3
+  278  make week2
+  279  bin/se -i testcases/basics/movk -v 3
+  280  git pull
+  281  git merge
+  282  git add .
+  283  git commit -m "doing this for the vine"
+  284  git merge
+  285  git add .
+  286  git commit -m "vine pt2"
+  287  git merge
+  288  bin/se -i testcases/basics/movk -v 3
+  289  make week2
+  290  make week2
+  291  bin/se -i testcases/basics/movk -v 3
+  292  make week2
+  293  bin/se -i testcases/basics/movk -v 3
+  294  git add .
+  295  git commit -m "reg fix"
+  296  git push
+  297  make week2
+  298  git add .
+  299  git commit -m "second push"
+  300  make week2
+  301  bin/se -i testcases/basics/movk -v 3
+  302  make week2
+  303  gdb ./bin/se
+  304  make week2
+  305  run -i testcases/basics/movk -v 3
+  306  bin/se -i testcases/basics/movk -v 3
+  307  make week2
+  308  bin/se -i testcases/basics/movk -v 3
+  309  git add .
+  310  git commit -m "yippeeeee"
+  311  git push
+  312  git pull
+  313  bin/se -i testcases/basics/sub -v 3
+  314  bin/se -i testcases/basics/sub -v 3
+  315  bin/se-ref-wk2 -i testcases/basics/sub -v 3
+  316  git pull
+  317  git merge
+  318  make week2
+  319  bin/se -i testcases/basics/sub -v 3
+  320  git pull
+  321  git pull
+  322  git pull
+  323  make random week2
+  324  bin/test-se -w 2
+  325  make week2
+  326  bin/test-se -w 2
+  327  bin/se -i testcases/basics/sub -v 3
+  328  git pull
+  329  git merge
+  330  bin/test-se -w 2
+  331  make random week3
+  332  make random week2
+  333  bin/test-se -w 2
+  334  bin/se -i testcases/applications/hard/bin_search -v 3
+  335  bin/se-ref-wk2 -i testcases/applications/hard/bin_search -v 3
+  336  bin/se-ref-wk2 -i testcases/applications/hard/bin_search -v 3
+  337  bin/se-ref-wk2 -i testcases/applications/hard/iter_sum -v 3
+  338  bin/se-ref-wk2 -i testcases/applications/hazard/13factorial -v 3
+  339  bin/se-ref-wk2 -i testcases/ec_writeup/gemm_block -v 3
+  340  bin/se-ref-wk2 -i testcases/pc/fast/pc-6 -v 3
+  341  bin/se -i testcases/pc/fast/pc-6 -v 3
+  342  bin/se-ref-wk2 -i testcases/applications/hazard/13factorial -v 3
+  343  bin/se-ref-wk2 -i testcases/applications/hard/iter_sum -v 3
+  344  bin/se-ref-wk2 -i testcases/branch/hazard/bcond_cmn -v 3
+  345  bin/se -i testcases/branch/hazard/bcond_cmn -v 3
+  346  git pull
+  347  git add .
+  348  git commit -m "giggles"
+  349  git push
+  350  git pull
+  351  git pull
+  352  git push
+  353  git add .
+  354  git commit -m "work please"
+  355  git merge
+  356  git pull
+  357  git pull
+  358  bin/se-ref-wk2 -i testcases/branch/hazard/bcond_cmn -v 3
+  359  bin/se -i testcases/branch/hazard/bcond_cmn -v 3
+  360  make week2
+  361  bin/se-ref-wk2 -i testcases/branch/hazard/bcond_cmn -v 3
+  362  bin/se -i testcases/branch/hazard/bcond_cmn -v 3
+  363  bin/se -i testcases/branch/hazard/bcond_cmn -v 2
+  364  bin/se-ref-wk2 -i testcases/branch/hazard/bcond_cmn -v 2
+  365  git pull
+  366  bin/se-ref-wk2 -i testcases/branch/hazard/bl -v 2
+  367  bin/se -i testcases/branch/hazard/bl -v 2
+  368  make week2
+  369  bin/se -i testcases/branch/hazard/bl -v 2
+  370  make week2
+  371  bin/se -i testcases/branch/hazard/bl -v 2
+  372  make week2
+  373  git pull
+  374  make week2
+  375  make clean
+  376  make week2
+  377  bin/se -i testcases/alu/pipeminus/asr -v 2
+  378  bin/se-ref-wk2 -i testcases/alu/pipeminus/asr -v 2
+  379  make week2
+  380  bin/se -i testcases/alu/pipeminus/asr -v 2
+  381  bin/test-se -w2 -v 2
+  382  make clean
+  383  make week2
+  384  bin/se -i testcases/exceptions/pipeminus/stur -v 2
+  385  bin/se-ref-wk2 -i testcases/exceptions/pipeminus/stur -v 2
+  386  make week2
+  387  bin/test-se -w2 -v 2
+  388  bin/se-ref-wk2 -i testcases/branch/pipeminus/branch_taken -v 2
+  389  bin/se -i testcases/branch/pipeminus/branch_taken -v 2
+  390  bin/se-ref-wk2 -i testcases/exceptions/pipeminus/stur -v 2
+  391  bin/se -i testcases/exceptions/pipeminus/stur -v 2
+  392  git pull
+  393  git add .
+  394  git commit -m "blah"
+  395  git push
+  396  git pull
+  397  git merge
+  398  git push
+  399  git pull
+  400  git commit -m "yay"
+  401  git push
+  402  git pull
+  403  cd /u/connor77/se-lab-cs && bin/se -i testcases/exceptions/pipeminus/ldur -v 3 2>&1 | head -150
+  404  cd /u/connor77/se-lab-cs && bin/se -i testcases/exceptions/pipeminus/ldur -v 3 2>&1 | grep -A 50 "cycle 9:"
+  405  make week2
+  406  bin/test-se -w2 -v 2
+  407  cd /u/connor77/se-lab-cs && bin/test-se -w 2 -v 1 2>&1 | tail -50
+  408  make week2
+  409  bin/test-se -w2 -v 2
+  410  make week2
+  411  bin/test-se -w2 -v 2
+  412  git add .
+  413  git commit -m "blah"
+  414  git pull
+  415  git push
+  416  git push
+  417  git pull
+  418  git add .
+  419  git commit -m "yay"
+  420  git push
+  421  git pull
+  422  git merge
+  423  make week2
+  424  bin/test-se -w 2 -v 2
+  425  git pull
+  426  make week2
+  427  make week2
+  428  make clean
+  429  make week2
+  430  bin/test-se -w 2 -v 2
+  431  bin/se -i testcases/exceptions/pipeminus/ldur -v 2
+  432  bin/se-ref-wk2 -i testcases/exceptions/pipeminus/ldur -v 2
+  433  make clean
+  434  make week2
+  435  gdb ./bin/se
+  436  make
+  437  git pull
+  438  make clean
+  439  git commit -m "blah"
+  440  git merge
+  441  git add .
+  442  git commit -m "please stop this" 
+  443  git merge
+  444  make clean
+  445  make week2
+  446  bin/test-se -w 2 -v 2
+  447  make week2
+  448  bin/test-se -w 2 -v 2
+  449  make week2
+  450  bin/test-se -w 2 -v 2
+  451  bin/test-se -w 2 -v 2
+  452  make week2
+  453  bin/test-se -w 2 -v 2
+  454  make week2
+  455  bin/test-se -w 2 -v 2
+  456  make week2
+  457  bin/test-se -w 2 -v 2
+  458  make week2
+  459  bin/test-se -w 2 -v 2
+  460  make week2
+  461  bin/test-se -w 2 -v 
+  462  bin/test-se -w 2 -v 
+  463  bin/test-se -w 2 -v 2
+  464  make week2
+  465  bin/test-se -w 2 -v 2
+  466  bin/se -i testcases/branch/pipeminus/bl_ret -v 2
+  467  bin/se-ret-wk2 -i testcases/branch/pipeminus/bl_ret -v 2
+  468  bin/se-ref-wk2 -i testcases/branch/pipeminus/bl_ret -v 2
+  469  bin/test-se -w 2 -v 2
+  470  bin/se-ref-wk2 -i testcases/mem/pipeminus/adrp -v 2
+  471  bin/se -i testcases/mem/pipeminus/adrp -v 2
+  472  bin/se -i testcases/exceptions/pipeminus/ldur -v 2
+  473  bin/se-ref-wk2 -i testcases/exceptions/pipeminus/ldur -v 2
+  474  make week2
+  475  bin/test-se -w 2 -v 2
+  476  make week2
+  477  bin/test-se -w 2 -v 2
+  478  make week2
+  479  bin/test-se -w 2 -v 2
+  480  make week2
+  481  bin/test-se -w 2 -v 2
+  482  git pull
+  483  git pull
+  484  git pull
+  485  git add .
+  486  git commit -m "something"
+  487  git pull
+  488  git merge
+  489  make week2
+  490  bin/test-se -w 2 -v 2
+  491  bin/se-ref-wk2 -i testcases/exceptions/pipeminus/ldur -v 2
+  492  bin/se -i testcases/exceptions/pipeminus/ldur -v 2
+  493  make week2
+  494  bin/test-se -w 2 -v 2
+  495  git add .
+  496  git commit -m "I curse this assignment and anything related to it #ShrutiThaGOAT"
+  497  git push
+  498  git add .
+  499  git commit -m "need to look more at lecture :|"
+  500  git push
+  501  git remote -v
+  502  make trike
+  503  chmod +x ref_order
+  504  bin/orderlogs -f testcases/all_new
+  505  make stegosaurus
+  506  make spinosaurus
+  507  make trike
+  508  gdb ./bin/orderlogs
+  509  make trex
+  510  make stego
+  511  make spinosaurus
+  512  make trike
+  513  gdb ./bin/orderlogs
+  514  make trex
+  515  make stego
+  516  make spinosaurus
+  517  make trike
+  518  gdb ./bin/orderlogs
+  519  make trex
+  520  make stego
+  521  make spinosaurus
+  522  make trike
+  523  gdb ./bin/orderlogs
+  524  make trex
+  525  make stego
+  526  make spinosaurus
+  527  make trike
+  528  gdb ./bin/orderlogs
+  529  make trex
+  530  make trike
+  531  make stego
+  532  make trike
+  533  gdb ./bin/orderlogs
+  534  make spinosaurus
+  535  make trike
+  536  gdb ./bin/orderlogs
+  537  make trex
+  538  make stego
+  539  make spinosaurus
+  540  make trike
+  541  gdb ./bin/orderlogs
+  542  make trike
+  543  gdb ./bin/orderlogs
+  544  make trex
+  545  make stego
+  546  make trex
+  547  make stego
+  548  make spinosaurus
+  549  make trike
+  550  gdb ./bin/orderlogs
+  551  make trex
+  552  make stego
+  553  history > shell_logs.txt
